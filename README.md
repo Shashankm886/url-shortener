@@ -12,7 +12,6 @@
    - [Database Choice: MongoDB over PostgreSQL](#database-choice-mongodb-over-postgresql)  
    - [Future Scalability Considerations](#future-scalability-considerations)  
 4. [Challenges Faced](#challenges-faced)  
-5. [Conclusion](#conclusion)  
 
 ---
 
