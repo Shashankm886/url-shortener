@@ -19,7 +19,7 @@ The **URL Shortener** project is a backend service that takes long URLs and gene
 
 The project follows a **structured MVC architecture**, uses **MongoDB** for storage, and is built using **Golang with the Gin framework**.  
 
-To Run the project, clone the repo, then paste your own MONGO_URI string in it. Then in the root project directory, use the command `go run main.go`
+To Run the project, clone the repo, then paste your own MONGO_URI string in the .env file. Then in the root project directory, use the command `go run main.go`
 
 ---
 
