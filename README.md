@@ -61,7 +61,7 @@ Improve reliability by adding URL validation and expiration logic.
 
 ### **Phase 3: MongoDB Integration & Usage Tracking**  
 #### **Goal:**  
-Persist data in MongoDB and track how many times each short URL is accessed.
+Persist data in MongoDB and track how many times each short URL is accessed.(Till Phase 2, we were using storing the URLs in-memory, so they were lost after the application shut down.)
 
 #### **Implementation Details:**  
 1. **MongoDB as Primary Storage:**  
