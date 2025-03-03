@@ -1,5 +1,4 @@
 # **URL Shortener - Project Documentation**  
-**Author**: Shashank Mishra   
 
 ## **Table of Contents**  
 1. [Introduction](#introduction)  
